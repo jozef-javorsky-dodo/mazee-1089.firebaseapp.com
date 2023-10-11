@@ -1,0 +1,10 @@
+#html-body-header-heading {
+    margin: 4mm 0 2mm 4cm;
+    display: inline-block;
+    border: 1mm solid rgb(0, 0, 0);
+    border-radius: 3mm;
+    padding: 1mm 3mm 1mm 3mm;
+    box-shadow: 0 0 3mm 3mm rgb(244, 244, 244);
+    background-color: rgb(60, 60, 60);
+    color: rgb(244, 244, 244) !important;
+}
